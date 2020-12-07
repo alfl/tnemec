@@ -1,6 +1,6 @@
 path_classifiers:
     library:
-        - cli/contrib/jinja2
+        - cli/contrib
     template:
         - cli/templates
 
