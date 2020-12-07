@@ -1,6 +1,6 @@
 path_classifiers:
-    library:
-        - cli/contrib
-    template:
-        - cli/templates
+  library:
+    - cli/contrib
+  template:
+    - cli/templates
 
